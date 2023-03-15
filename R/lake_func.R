@@ -12,3 +12,4 @@ lake_func=function(initial_level, precip_data, outflow=10, evap=1) {
   total_change = (precip_data - (outflow + evap))
   return(list(lake_vol, total_change))
 }
+
