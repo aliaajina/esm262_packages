@@ -2,8 +2,8 @@ Package: test1
 Type: Package
 Title: Lake Package
 Version: 0.1.0
-Author: Alia Ajina
-Maintainer: The package maintainer <aliaajina@ucsb.edu>
+Author: Alia Ajina and Sophia Leiker
+Maintainer: The package maintainer <aliaajina@ucsb.edu, sophialeiker@ucsb.edu>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: What license is it under?
