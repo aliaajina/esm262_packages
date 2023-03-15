@@ -1,9 +1,10 @@
 #' Lake volume function
-
+#'
+#' @author Alia Ajina & Sophia Leiker
 #' @param intitial_level, changing initital lake level (gallons)
 #' @param precip_data, changing daily precipitation data (gallons)
-#' @param outflow of 10 gal/day
-#' @param evap (evaporation) of 1 gal/day
+#' @param outflow of 10 gal/day, default = 10
+#' @param evap (evaporation) of 1 gal/day, default = 1
 #' @return lake_volume (changing volume of the lake) and total_inputs (inputs into the lake)
 
 lake_func=function(initial_level, precip_data, outflow=10, evap=1) {

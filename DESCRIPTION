@@ -11,3 +11,4 @@ Encoding: UTF-8
 LazyData: true
 Imports: 
     purrr
+RoxygenNote: 7.2.3
