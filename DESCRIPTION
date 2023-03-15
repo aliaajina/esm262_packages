@@ -4,9 +4,9 @@ Title: Lake Package
 Version: 0.1.0
 Author: Alia Ajina and Sophia Leiker
 Maintainer: The package maintainer <aliaajina@ucsb.edu, sophialeiker@ucsb.edu>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Description: This package provides a function that calculates the volume of a lake given 4 randomly generated precipitation values.
+    If you'd like to use your own precipitation values you can do so instead.
+License: N/A
 Encoding: UTF-8
 LazyData: true
 Imports: 
